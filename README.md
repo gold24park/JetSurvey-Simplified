@@ -1,4 +1,5 @@
 # JetSurvey (Simplified)
+<img src="Jetsurvey.png" alt="Jetpack Compose Samples" width="200" />
 A Simplified version of JetpackCompose Official Tutorial Project ["JetSurvey"](https://github.com/android/compose-samples)
 - Removed Sign In  / Sign Up Feature
 
